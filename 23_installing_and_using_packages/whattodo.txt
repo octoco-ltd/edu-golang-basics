@@ -1,0 +1,6 @@
+go mod init github.com/weebnetsu/modexample
+touch main.go
+(github page: https://github.com/gofiber/fiber)
+go get -u github.com/gofiber/fiber/v2
+
+curl localhost:3000/
