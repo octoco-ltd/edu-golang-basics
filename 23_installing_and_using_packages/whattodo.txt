@@ -1,6 +1,4 @@
-go mod init github.com/weebnetsu/modexample
+go mod init github.com/octoco/modexample
 touch main.go
-(github page: https://github.com/gofiber/fiber)
-go get -u github.com/gofiber/fiber/v2
-
-curl localhost:3000/
+(github page: https://github.com/gorilla/mux)
+go get github.com/gorilla/mux
